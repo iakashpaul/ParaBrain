@@ -1,2 +1,2 @@
 # ParaBrain
-Experimental LLMs for parallel generation for increased throughput
+Experimental LLMs for parallel generation/increased throughput
